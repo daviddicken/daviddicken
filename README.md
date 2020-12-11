@@ -45,5 +45,7 @@
   <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
+  
   
 </p>
