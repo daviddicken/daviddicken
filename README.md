@@ -37,12 +37,12 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="http://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat&logo=visual%20studio&logoColor=white">
-  <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=intellij&logoColor=white">
+  <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbeans&logoColor=white">
   
   
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=aws&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   
