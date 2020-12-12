@@ -5,7 +5,7 @@
 </p>
 <h2 align="center">Languages</h2>
 <p align="center">
-  <img src = "https://img.shields.io/badge/-Java-1572B6?style=flat&logo=java&logoColor=white">
+  <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=white">
   <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
   <img src = "https://img.shields.io/badge/-Shell Script-1572B6?style=flat&logo=linux&logoColor=white">
 <!--   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
