@@ -22,8 +22,8 @@
 <!--   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> -->
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
 <!--   <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff"> -->
-  <img src="https://img.shields.io/badge/Bootstrap%20-%6db33f7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Spring-%23563D7C.svg?style=flat&logo=Spring&logoColor=6db33f">
+  <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=6db33f">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
   
