@@ -1,6 +1,7 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <h2 align="center">Languages</h2>
 <p align="center">
@@ -51,5 +52,5 @@
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
