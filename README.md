@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
 <!--   <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff"> -->
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Springboot-%23563D7C.svg?style=flat&logo=Spring&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Spring-%23563D7C.svg?style=flat&logo=Spring&logoColor=6db33f">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
   
@@ -40,7 +40,6 @@
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="http://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat&logo=visual%20studio&logoColor=white">
   <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbrains&logoColor=white">
-  <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbrains&logoColo
   <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Fintellij-idea-community&psig=AOvVaw10SmOwcyC1xA0u1fUfUVj0&ust=1607831060629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDCodDDx-0CFQAAAAAdAAAAABAP&logoColor=white">
   
   
