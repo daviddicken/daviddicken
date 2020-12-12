@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
  </p>
  
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
   
 
 
