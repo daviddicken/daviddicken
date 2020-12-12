@@ -12,10 +12,13 @@
   <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
   <img src = "https://img.shields.io/badge/-C++-white?style=flat&logo=c%2B%2B&logoColor=1572B6">
   <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src = "https://img.shields.io/badge/-C++-787878?style=flat&logo=c%2B%2B&logoColor=1572b6">
+  <img src = "https://img.shields.io/badge/-C++-787878?style=flat&logo=c%2B%2B&logoColor=white">
   
   <img src = "https://img.shields.io/badge/-Shell Script-1572B6?style=flat&logo=linux&logoColor=white">
+  <img src = "https://img.shields.io/badge/-Shell Script-1572B6?style=flat&logo=linux&logoColor=white">  
+  <img src = "https://img.shields.io/badge/-Shell Script-1572B6?style=flat&logo=linux&logoColor=white">
+  
 <!--   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
   <img src = "https://img.shields.io/badge/-JavaScript-787878?style=flat&logo=javascript&logoColor=white">
 <!--   <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff"> -->
