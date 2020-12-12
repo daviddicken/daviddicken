@@ -4,13 +4,14 @@
 </p>
 <h2 align="center">Languages</h2>
 <p align="center">
+  <img src = "https://img.shields.io/badge/-Java-1572B6?style=flat&logo=java&logoColor=white">
+  <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
 <!--   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
   <img src = "https://img.shields.io/badge/-JavaScript-787878?style=flat&logo=javascript&logoColor=white">
 <!--   <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff"> -->
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Java-1572B6?style=flat&logo=java&logoColor=white">
-  <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
+ 
   
   
 </p>
@@ -50,5 +51,5 @@
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
   
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
