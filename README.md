@@ -22,7 +22,7 @@
 <!--   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
   <img src = "https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=323330">
   <img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f">
-  <img src = "https://img.shields.io/badge/-JavaScript-787878?style=flat&logo=javascript&logoColor=white">
+
 <!--   <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff"> -->
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
