@@ -18,7 +18,12 @@
   <!-- <img src = "https://img.shields.io/badge/-Shell Script-1572B6?style=flat&logo=linux&logoColor=white">
   <img src = "https://img.shields.io/badge/-Shell-1572B6?style=flat&logo=linux&logoColor=333333">  -->
   <img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333">
+  
+  
   <img src = "https://img.shields.io/badge/-Visual Basic-ffffff?style=flat&logo=visualbasic&logoColor=333333">
+  <img src = "https://img.shields.io/badge/-Visual Basic-ffffff?style=flat&logo=VisualBasic&logoColor=333333">
+  <img src = "https://img.shields.io/badge/-Visual Basic-ffffff?style=flat&logo=microsoft&logoColor=333333">
+  <img src = "https://img.shields.io/badge/-Visual Basic-ffffff?style=flat&logo=Visualbasic&logoColor=333333">
   
 <!--   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
 <!--  <img src = "https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=323330"> -->
