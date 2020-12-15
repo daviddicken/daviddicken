@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white">
   
   
+  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=aws&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=aws%20amplify&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amplify&logoColor=00c8ff">
   
   
   
