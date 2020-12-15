@@ -49,6 +49,13 @@
   
   
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=aws%20amplify&logoColor=00c8ff">
+  
+  
+  
+  
   <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
   
   
