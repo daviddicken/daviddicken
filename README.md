@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%ffffff.svg?style=flat&logo=Spring&logoColor=6db33f">
   <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=6db33f">
+  <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white">
   
   
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
