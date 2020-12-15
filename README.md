@@ -47,7 +47,8 @@
   <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white">
   
-  <img src="https://docs.amplify.aws/assets/logo-dark.svg?style=flat&logo=aws&logoColor=00c8ff"
+ 
+  <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=aws&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
@@ -101,8 +102,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-dicken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-dicken" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/daviddicken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="daviddicken" height="30" width="40" &theme=onedark/></a>
-<a href="https://www.leetcode.com/daviddicken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg&theme=onedark" alt="daviddicken" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/daviddicken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="daviddicken" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/daviddicken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="daviddicken" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
