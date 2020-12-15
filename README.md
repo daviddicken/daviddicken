@@ -42,8 +42,8 @@
 <!--   <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff"> -->
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
   
-  <img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-%ffffff.svg?style=flat&logo=Spring&logoColor=6db33f">
+  <!--<img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-%ffffff.svg?style=flat&logo=Spring&logoColor=6db33f"> -->
   <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white">
   
