@@ -60,7 +60,7 @@
   
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amplify&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=010101">
+  <img src="https://img.shields.io/badge/Amplify-%010101.svg?style=flat&logo=amazon&logoColor=010101">
   
   
   
