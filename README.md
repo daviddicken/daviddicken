@@ -49,7 +49,7 @@
   
  
   <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
-  <img src="https://img.shields.io/badge/Amplify-%000000.svg?style=flat&logo=amplify&logoColor=000000">
+  <img src="https://img.shields.io/badge/Amplify-%000000.svg?style=flat&logo=amplify&logoColor=white">
   <img src="https://img.shields.io/badge/Amplify-%23563D7C.svg?style=flat&logo=amazon&logoColor=00c8ff">
   
   
