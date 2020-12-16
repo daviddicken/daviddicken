@@ -41,6 +41,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
+ <!-- <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white"> -->  
+  <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
+  <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
   
   
   
@@ -51,15 +55,14 @@
   <!--<img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-%ffffff.svg?style=flat&logo=Spring&logoColor=6db33f"> -->
   
-  <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white">
-  
- 
-  <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
-  <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
  
   
+ 
+ 
+  
+ <!-- <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff"> -->
   
   
 <!--   <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff"> -->
