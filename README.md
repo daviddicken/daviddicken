@@ -5,7 +5,7 @@
 
 <h2 align="center" id="Lang">Languages</h2>
 <p align="center">
-  <a href = "#Lang">
+  <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/README.md">
     <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
   </a>
   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md">
