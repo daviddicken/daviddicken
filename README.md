@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center" id="Lang">Languages</h2>
-<p align="center">
+<p align="center", bachgroundcolor="white">
   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/README.md">
     <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
   </a>
