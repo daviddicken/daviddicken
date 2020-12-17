@@ -3,7 +3,7 @@
   <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a>  
 </p>
 
-<h2 align="center">Languages</h2>
+<h2 align="center"># Languages</h2>
 <p align="center">
   <a href = "#">
     <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
