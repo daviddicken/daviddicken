@@ -11,43 +11,35 @@
   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md">
     <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
   </a>
-  <img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333">
-  <img src = "https://img.shields.io/badge/-Visual Basic-c7c6c3?style=flat&logo=visual%20studio&logoColor=0078d7">
-  <img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f"> 
-  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-   
-<!--   <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f89820"> -->
-
- <!-- <img src = "https://img.shields.io/badge/-C++-white?style=flat&logo=c%2B%2B&logoColor=1572B6">
-  <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
-  <img src = "https://img.shields.io/badge/-C++-787878?style=flat&logo=c%2B%2B&logoColor=1572b6">
-  <img src = "https://img.shields.io/badge/-C++-787878?style=flat&logo=c%2B%2B&logoColor=white"> -->
-  
-  <!-- <img src = "https://img.shields.io/badge/-Shell Script-1572B6?style=flat&logo=linux&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Shell-1572B6?style=flat&logo=linux&logoColor=333333">  -->
-  
-  <!-- <img src = "https://img.shields.io/badge/-Visual Basic-0078d7?style=flat&logo=visual%20studio&logoColor=333333"> -->
-  <!-- <img src = "https://img.shields.io/badge/-Visual Basic-ffffff?style=flat&logo=visual%20studio&logoColor=0078d7"> -->
-  
-<!--   <img src = "https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat&logo=c%2B%2B&logoColor=ffffff"> -->
-<!--  <img src = "https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=323330"> -->
-
+  <a href = "#Lang">
+    <img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333">
+  </a>
+  <a href = "#Lang">
+    <img src = "https://img.shields.io/badge/-Visual Basic-c7c6c3?style=flat&logo=visual%20studio&logoColor=0078d7">
+  </a>
+  <a href = "#Lang">
+    <img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f"> 
+  </a>
+  <a href = "#Lang">
+    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  </a>
+  <a href = "#Lang">
+    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  </a>
 <!--   <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff"> -->
 
- 
-  
-  
+   
 </p>
-<h2 align="center">Frameworks</h2>
+<h2 align="center" id="frame">Frameworks</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
+  <a href="frame">
+    <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
+    <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
+    <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
  <!-- <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white"> -->  
-  <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
-  <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
+    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
+    <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
+  </a>
   
   
   
