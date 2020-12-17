@@ -65,24 +65,24 @@
 </p>
 <h2 align="center">Tools</h2>
 <p align="center">
-  <a href="#Lang">
-    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-    <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-    <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-    <img src="http://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat&logo=visual%20studio&logoColor=white">
-    <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbrains&logoColor=white">
-    <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Fintellij-idea-community&psig=AOvVaw10SmOwcyC1xA0u1fUfUVj0&ust=1607831060629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDCodDDx-0CFQAAAAAdAAAAABAP&logoColor=white">
+<a href="#Lang">
+  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="http://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat&logo=visual%20studio&logoColor=white">
+  <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbrains&logoColor=white">
+  <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Fintellij-idea-community&psig=AOvVaw10SmOwcyC1xA0u1fUfUVj0&ust=1607831060629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDCodDDx-0CFQAAAAAdAAAAABAP&logoColor=white">
 
 
 
-    <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=amazon&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
+  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=amazon&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
  </a>
  </p>
  <p align="center">
