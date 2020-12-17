@@ -1,15 +1,15 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&theme=onedark"><br>
-  <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a>
-  
+  <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a>  
 </p>
+
 <h2 align="center">Languages</h2>
 <p align="center">
-  
-  <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
-  <!--<a href = "/data-structures/c++/README.md"> -->
+  <a "#">
+    <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
+  </a>
   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md">
-  <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
+    <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
   </a>
   <img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333">
   <img src = "https://img.shields.io/badge/-Visual Basic-c7c6c3?style=flat&logo=visual%20studio&logoColor=0078d7">
