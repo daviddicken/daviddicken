@@ -2,12 +2,12 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a> <br>
   <a background ="white">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="200" height="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="200" height="200"/>
   </a>
 </p>
 
 <h2 align="center" id="Lang">Languages</h2>
-<p align="center", bachgroundcolor="white">
+<p align="center">
   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/README.md">
     <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
   </a>
