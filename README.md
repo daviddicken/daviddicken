@@ -4,7 +4,7 @@
   <a href="https://leetcode.com/daviddicken/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
   <!-- <a><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="80" height="80"/></a> -->
   <a href="https://www.hackerrank.com/davidfromseattle/hackos"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
-  <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/micro" alt="codewars badge" /></a>
+  <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/small" alt="codewars badge" /></a>
  
 
 
