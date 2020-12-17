@@ -1,6 +1,7 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&theme=onedark"><br>
-  <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a>  
+  <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="amplify" width="20" height="20"/>
 </p>
 
 <h2 align="center" id="Lang">Languages</h2>
