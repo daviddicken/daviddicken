@@ -3,9 +3,7 @@
   <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a> <br>
   <a href="https://leetcode.com/daviddicken/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
   <!-- <a><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="80" height="80"/></a> -->
-  
-  
-  <a title="HackerRank, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HackerRank_logo.png"><img width="75" alt="HackerRank logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/512px-HackerRank_logo.png"></a>
+  <a title="HackerRank, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:HackerRank_logo.png"><img width="70" alt="HackerRank logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/512px-HackerRank_logo.png"></a>
 </p>
 
 <h2 align="center" id="Lang">Languages</h2>
@@ -32,7 +30,7 @@
     <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   </a>
 <!--   <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff"> -->
-
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
    
 </p>
 <h2 align="center">Frameworks</h2>
