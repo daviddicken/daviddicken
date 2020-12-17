@@ -2,7 +2,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a> <br>
   <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="amplify" width="200" height="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_white_with_text.svg" alt="amplify" width="200" height="200"/>
   </a>
 </p>
 
