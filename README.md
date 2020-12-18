@@ -121,5 +121,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&locale=en" alt="daviddicken" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&" alt="daviddicken" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&" alt="daviddicken" /></p>
 
