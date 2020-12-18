@@ -94,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
  </p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p>
 <!-- <p >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p> 
