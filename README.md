@@ -69,8 +69,7 @@
   <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90">
   <img src="http://img.shields.io/badge/-Visual%20Studio-5d2b90?style=flat&logo=visual%20studio&logoColor=white">
   <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-%3ddc84.svg?style=flat&logo=android&logoColor=00c8ff">
-  <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Fintellij-idea-community&psig=AOvVaw10SmOwcyC1xA0u1fUfUVj0&ust=1607831060629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDCodDDx-0CFQAAAAAdAAAAABAP&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Android Studio-%073042.svg?style=flat&logo=android&logoColor=3ddc84"> 
 
 
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
