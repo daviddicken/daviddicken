@@ -65,6 +65,7 @@
 <a href="#Lang">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="http://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat&logo=visual%20studio&logoColor=white">
   <img src="http://img.shields.io/badge/-Visual%20Studio-0078d7?style=flat&logo=visual%20studio&logoColor=white">
   <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbrains&logoColor=white">
