@@ -66,8 +66,8 @@
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
-  <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=white">
-  <img src="http://img.shields.io/badge/-Visual%20Studio-0078d7?style=flat&logo=visual%20studio&logoColor=white">
+  <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90">
+  <img src="http://img.shields.io/badge/-Visual%20Studio-5d2b90?style=flat&logo=visual%20studio&logoColor=white">
   <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=jetbrains&logoColor=white">
 <!--   <img src="http://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnapcraft.io%2Fintellij-idea-community&psig=AOvVaw10SmOwcyC1xA0u1fUfUVj0&ust=1607831060629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDCodDDx-0CFQAAAAAdAAAAABAP&logoColor=white"> -->
 
