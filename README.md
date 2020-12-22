@@ -101,7 +101,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p> 
 [![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark") -->
-<!---------------------------------------------------------------------------
+
 
 <h1 align="center">Hi 👋, I'm David Dicken</h1>
 <h3 align="center">A full stack developer from Seattle</h3>
