@@ -40,7 +40,6 @@
   <a href="#Lang">
     <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
-    <a href="https://expressjs.com" target="_blank"></a>
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
     <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">
  <!-- <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white"> -->  
@@ -54,14 +53,6 @@
 <!--   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> -->
 <!--   <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff"> -->
   
-  <!--<img src="https://img.shields.io/badge/Spring-%6db33f7C.svg?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-%ffffff.svg?style=flat&logo=Spring&logoColor=6db33f"> -->
-  
- 
-  
- 
- 
-  
  <!-- <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff"> -->
@@ -74,6 +65,7 @@
 <p align="center">
 <a href="#Lang">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-68a063?style=flat&logo=Node.js&logoColor=white">
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <!--   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> -->
