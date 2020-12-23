@@ -76,9 +76,9 @@
 
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=amazon&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/AWS%20-37475a.svg?style=flat&logo=amazon&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/AWS%20-%230072C6.svg?style=flat&logo=amazon&logoColor=37475a">
+  <img src="https://img.shields.io/badge/AWS%20-37475a.svg?style=flat&logo=amazon&logoColor=FEBD69">
+  <!-- <img src="https://img.shields.io/badge/AWS%20-37475a.svg?style=flat&logo=amazon&logoColor=00c8ff"> -->
+  <img src="https://img.shields.io/badge/AWS%20-232F3E.svg?style=flat&logo=amazon&logoColor=FEBD69">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
