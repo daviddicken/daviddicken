@@ -49,16 +49,18 @@
     <img src="https://img.shields.io/badge/Postgres-585858.svg?style=flat&logo=postgresql&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Postman-ffffff.svg?style=flat&logo=postman&logoColor=EF5B25">
     <!-- <img src="https://img.shields.io/badge/Figma-848484.svg?style=flat&logo=figma&logoColor=00c8ff"> -->
- </a>
- </a>
+  </a>
  </p>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
- </p>
- 
+ </p> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddicken" alt="daviddicken" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken" /> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddicken"alt="daviddicken"/></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken"/></p>
+
+<h2 align="center">Projects</h2>
 
 <!-- Scraps------------------------------------>
 <!-- <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff"> -->
