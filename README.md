@@ -83,8 +83,6 @@
   
   <img src="https://img.shields.io/badge/SQL-f29111?style=flat&logo=SQL&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/GraphQL-000000?style=flat&logo=GraphQL&logoColor=e535ab">
-  <img src="https://img.shields.io/badge/Postgres-848484.svg?style=flat&logo=postgresql&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Postgres-666666.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-585858.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postman-ffffff.svg?style=flat&logo=postman&logoColor=EF5B25">
   <img src="https://img.shields.io/badge/Figma-848484.svg?style=flat&logo=figma&logoColor=00c8ff">
