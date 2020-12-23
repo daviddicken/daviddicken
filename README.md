@@ -57,9 +57,9 @@
  </p>
  
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken" /> </p
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddicken" alt="daviddicken" /></a> </p>
->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken" /> </p>
 
 <!-- Scraps------------------------------------>
 <!-- <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff"> -->
