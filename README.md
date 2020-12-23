@@ -78,7 +78,7 @@
   <!-- <img src="https://img.shields.io/badge/AWS%20-37475a.svg?style=flat&logo=amazon&logoColor=FEBD69"> -->
   <!-- <img src="https://img.shields.io/badge/AWS%20-37475a.svg?style=flat&logo=amazon&logoColor=00c8ff"> -->
   <img src="https://img.shields.io/badge/AWS%20-232F3E.svg?style=flat&logo=amazon&logoColor=FEBD69">
-  <img src="https://img.shields.io/badge/Firebase-232F3E.svg?style=flat&logo=firebase&logoColor=FEBD69">
+  
    <img src="https://img.shields.io/badge/Firebase-232F3E.svg?style=flat&logo=firebase&logoColor=Ffa611">
   
   <img src="https://img.shields.io/badge/SQL-f29111?style=flat&logo=SQL&logoColor=00c8ff">
@@ -105,6 +105,7 @@
 <!-- <img src="https://img.shields.io/badge/Spring-%a4c639.svg?style=flat&logo=Spring&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Android Studio-%c7c6c3.svg?style=flat&logo=android&logoColor=3ddc84"> -->
 <!-- <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff"> -->
+<!-- <img src="https://img.shields.io/badge/Firebase-232F3E.svg?style=flat&logo=firebase&logoColor=FEBD69"> -->
 
 
 <h1 align="center">Hi 👋, I'm David Dicken</h1>
