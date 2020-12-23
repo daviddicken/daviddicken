@@ -67,10 +67,11 @@
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90">
-  <img src="http://img.shields.io/badge/-Visual%20Studio-5d2b90?style=flat&logo=visual%20studio&logoColor=white">
+  <!-- <img src="http://img.shields.io/badge/-Visual%20Studio-5d2b90?style=flat&logo=visual%20studio&logoColor=white"> -->
   <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white"> 
   <img src="https://img.shields.io/badge/Android Studio-000000.svg?style=flat&logo=android&logoColor=3ddc84">
-  <img src="https://img.shields.io/badge/Android Studio-ffffff.svg?style=flat&logo=android&logoColor=3ddc84">
+  <!-- <img src="https://img.shields.io/badge/Android Studio-ffffff.svg?style=flat&logo=android&logoColor=3ddc84"> -->
+
 
 
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
