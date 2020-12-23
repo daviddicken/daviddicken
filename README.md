@@ -60,7 +60,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken"/></p>
 
-<h2 align="center">Projects</h2>
+<!-- <h2 align="center">Projects</h2> -->
 
 <!-- Scraps------------------------------------>
 <!-- <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff"> -->
