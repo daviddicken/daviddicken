@@ -63,7 +63,6 @@
 <h2 align="center">Tools</h2>
 <p align="center">
 <a href="#Lang">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90">
@@ -71,7 +70,7 @@
   <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white"> 
   <img src="https://img.shields.io/badge/Android Studio-073042.svg?style=flat&logo=android&logoColor=3ddc84">
   <!-- <img src="https://img.shields.io/badge/Android Studio-ffffff.svg?style=flat&logo=android&logoColor=3ddc84"> -->
-
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
   <br>
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
@@ -81,7 +80,6 @@
   <img src="https://img.shields.io/badge/AWS%20-232F3E.svg?style=flat&logo=amazon&logoColor=FEBD69">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
-  <img src="https://img.shields.io/badge/Android Studio-%23316192.svg?style=flat&logo=android&logoColor=00c8ff">
  </a>
  </p>
  <p align="center">
