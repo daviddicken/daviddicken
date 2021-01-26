@@ -56,8 +56,8 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddicken&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
  </p> 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p>
-<p align="center">
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p>
+<p align="center"> -->
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddicken"alt="daviddicken"/></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=daviddicken&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken"/></p>
