@@ -25,7 +25,7 @@
 <h2 align="center">Frameworks</h2>
 <p align="center">
   <a href="#Lang">
-    <img src="https://img.shields.io/badge/.NET Core-net%e2daf1.svg?style=flat&logo=dot-net&logoColor=5d2b90">
+    <!--<img src="https://img.shields.io/badge/.NET Core-net%23563d7C.svg?style=flat&logo=dot-net&logoColor=white">-->
     <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
