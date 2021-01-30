@@ -12,6 +12,9 @@
   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md">
     <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
   </a>
+  <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md">
+    <img src = "https://img.shields.io/badge/-C#-1572B6?style=flat&logo=c%2B%2B&logoColor=white">
+  </a>
   <a href = "#Lang"><img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333"></a>
   <a href = "#Lang"><img src = "https://img.shields.io/badge/-Visual Basic-c7c6c3?style=flat&logo=visual%20studio&logoColor=0078d7"></a>
   <a href = "#Lang"><img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f"></a>
@@ -22,6 +25,7 @@
 <h2 align="center">Frameworks</h2>
 <p align="center">
   <a href="#Lang">
+    <img src="https://img.shields.io/badge/.NET Core-net%23239120.svg?style=flat&logo=dot-net&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
