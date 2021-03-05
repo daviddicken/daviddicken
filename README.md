@@ -1,5 +1,4 @@
 <p align="center">
- <img src = "https://github.com/users/daviddicken/contributions" >
   
   <img src = "https://github-readme-stats.vercel.app/api?username=daviddicken&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/daviddicken"><img src="https://www.codewars.com/users/daviddicken/badges/large" alt="codewars badge" /></a> <br>
