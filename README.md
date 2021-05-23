@@ -25,7 +25,8 @@
 <h2 align="center">Frameworks</h2>
 <p align="center">
   <a href="#Lang">
-    <!--<img src="https://img.shields.io/badge/.NET Core-net%23563d7C.svg?style=flat&logo=dot-net&logoColor=white">-->
+    <img src="https://img.shields.io/badge/.NET Core-net%23563d7C.svg?style=flat&logo=dot-net&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/.NET Core-net%23239120.svg?style=flat&logo=dot-net&logoColor=00c8ff"> -->
     <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
@@ -72,7 +73,7 @@
 <!-- <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff"> -->
 <!-- <img src="https://img.shields.io/badge/Xamarin%20Forms-%233498DB.svg?style=flat&logo=xamarin&logoColor=00c8ff"> -->
 <!-- <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff"> -->
-<!-- <img src="https://img.shields.io/badge/.NET Core-net%23239120.svg?style=flat&logo=dot-net&logoColor=00c8ff"> -->
+
 <!-- <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> -->
 <!-- <img src="https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat&logo=django&logoColor=00c8ff"> -->
 <!-- <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff"> -->
