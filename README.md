@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">  
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
     <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
+    <img src="https://img.shields.io/badge/Xamarin%20Forms-%233498DB.svg?style=flat&logo=xamarin&logoColor=00c8ff">
   </a>
 </p>
 
@@ -71,7 +72,7 @@
 
 <!-- Scraps------------------------------------>
 <!-- <img src="https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=00c8ff"> -->
-<!-- <img src="https://img.shields.io/badge/Xamarin%20Forms-%233498DB.svg?style=flat&logo=xamarin&logoColor=00c8ff"> -->
+
 <!-- <img src="https://img.shields.io/badge/AndroidSDK-%23563D7C.svg?style=flat&logo=android&logoColor=00c8ff"> -->
 
 <!-- <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> -->
